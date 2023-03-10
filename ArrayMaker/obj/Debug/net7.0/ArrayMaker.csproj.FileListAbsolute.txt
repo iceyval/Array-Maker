@@ -1,0 +1,15 @@
+E:\VSProjects\ArrayMaker\ArrayMaker\obj\Debug\net7.0\ArrayMaker.csproj.AssemblyReference.cache
+E:\VSProjects\ArrayMaker\ArrayMaker\obj\Debug\net7.0\ArrayMaker.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSProjects\ArrayMaker\ArrayMaker\obj\Debug\net7.0\ArrayMaker.AssemblyInfoInputs.cache
+E:\VSProjects\ArrayMaker\ArrayMaker\obj\Debug\net7.0\ArrayMaker.AssemblyInfo.cs
+E:\VSProjects\ArrayMaker\ArrayMaker\obj\Debug\net7.0\ArrayMaker.csproj.CoreCompileInputs.cache
+E:\VSProjects\ArrayMaker\ArrayMaker\bin\Debug\net7.0\ArrayMaker.exe
+E:\VSProjects\ArrayMaker\ArrayMaker\bin\Debug\net7.0\ArrayMaker.deps.json
+E:\VSProjects\ArrayMaker\ArrayMaker\bin\Debug\net7.0\ArrayMaker.runtimeconfig.json
+E:\VSProjects\ArrayMaker\ArrayMaker\bin\Debug\net7.0\ArrayMaker.dll
+E:\VSProjects\ArrayMaker\ArrayMaker\bin\Debug\net7.0\ArrayMaker.pdb
+E:\VSProjects\ArrayMaker\ArrayMaker\obj\Debug\net7.0\ArrayMaker.dll
+E:\VSProjects\ArrayMaker\ArrayMaker\obj\Debug\net7.0\refint\ArrayMaker.dll
+E:\VSProjects\ArrayMaker\ArrayMaker\obj\Debug\net7.0\ArrayMaker.pdb
+E:\VSProjects\ArrayMaker\ArrayMaker\obj\Debug\net7.0\ArrayMaker.genruntimeconfig.cache
+E:\VSProjects\ArrayMaker\ArrayMaker\obj\Debug\net7.0\ref\ArrayMaker.dll
